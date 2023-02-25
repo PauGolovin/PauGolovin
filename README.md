@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Pavel
 
-![](https://komarev.com/ghpvc/?username=PauGolovin)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/PauPauGo" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="" height="30" width="40" /></a>
